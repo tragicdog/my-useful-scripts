@@ -3,6 +3,7 @@
 # Author: Jonathon Lillie
 # Version: 1
 # Description: Using the start times for the periods it compares the current day/time to the start times and tells the user which period it currently is, and if no periods are found true it outputs that school is not in session
+# TODO: add block schedule, minimum days, and rally schedule. Also would like to add a holiday checker, but you shouldn't need to run this on those days anyways. 
 ####################################################
 
 import datetime
